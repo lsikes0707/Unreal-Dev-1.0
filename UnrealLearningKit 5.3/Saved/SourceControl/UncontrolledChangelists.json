@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/lailai/Documents/Unreal Projects/Unreal-Dev-1.0/UnrealLearningKit 5.3/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
+				"/Users/lailai/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/lailai/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Static_Meshes/SM_Platform_M.uasset",
+				"/Users/lailai/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Maps/Level_HOC_world.umap"
+			]
+		}
+	]
+}
